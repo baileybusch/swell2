@@ -209,8 +209,8 @@ input[type="submit"] {
   box-sizing: border-box; }
 
 .hero {
-  background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png"), -webkit-linear-gradient(-280deg, #217142, #214271), no-repeat #214271 scroll;
-  background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png"), linear-gradient(10deg, #217142, #214271), no-repeat #214271 scroll;
+  background: url("../images/coffee.jpg"), -webkit-linear-gradient(-280deg, #217142, #214271), no-repeat #214271 scroll;
+  background: url("../images/coffee.jpg"), linear-gradient(10deg, #217142, #214271), no-repeat #214271 scroll;
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
